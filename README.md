@@ -8,6 +8,4 @@ Made with Python3 and pyqt4
 
 ![Screenshot Dark](https://github.com/gouravthakur39/PyQt-ui2py-converter/blob/master/ScreenshotDark.PNG?raw=true "Screenshot")
 
-![screenshot](https://cloud.githubusercontent.com/assets/3399764/24205556/b8bc6c6c-0f41-11e7-8bc9-8db08c045487.PNG)
-
 
